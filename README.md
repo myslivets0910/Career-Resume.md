@@ -1,5 +1,6 @@
 **Портфолио**
 
+<img src="https://user-images.githubusercontent.com/122479950/221151694-71c9199b-257b-4a7e-9efd-3acea36638c7.JPG" width="200" />
 **_Мысливец Павел Михайлович_**
 _Junior QA Engineer_
 
@@ -51,5 +52,3 @@ Jira / DevTools / Postman / Apache JMeter / Beyond Compare 4 / Xmind / Visual St
 2. Люблю бегать на свежем воздухе. 
 3. Чтение художественной и профессиональной литературы.
 4. Уход за домашним питомцем (собака)
-
-![BOG_5269]<img src="https://user-images.githubusercontent.com/122479950/221151694-71c9199b-257b-4a7e-9efd-3acea36638c7.JPG" width="200" />
