@@ -4,6 +4,7 @@
 <img src="https://user-images.githubusercontent.com/122479950/221151694-71c9199b-257b-4a7e-9efd-3acea36638c7.JPG" width="200" />
 
 ***Мысливец Павел Михайлович***
+
 ***Junior QA Engineer***
 
 +7 952 390-99-51
