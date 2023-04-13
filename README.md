@@ -56,4 +56,4 @@ Jira / DevTools / Postman / Apache JMeter / Beyond Compare 4 / Xmind / Visual St
 3. Чтение художественной и профессиональной литературы.
 4. Уход за домашним питомцем (собака)
 
-![image](https://user-images.githubusercontent.com/122479950/231691850-1944a38f-90f6-4c2c-80aa-817f6d562078.png)
+<img src="![image](https://user-images.githubusercontent.com/122479950/231691850-1944a38f-90f6-4c2c-80aa-817f6d562078.png)" width="200" />
