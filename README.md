@@ -66,25 +66,12 @@ __QA Engineer / Тестировщик ПО__
 - Самоорганизация для удаленной работы.
 
 ## Пройденные программы:
-
 - СКБ Контур 2023 "ULearn.me - **Тестирование ПО**"
-
 - ООО «Нетология» 2022 "Тестировщик ПО" - **Ручное тестирование веб-приложений**
-
-
 <img src="https://github.com/myslivets0910/portfolio/assets/122479950/5c296c26-b93e-4d41-9207-8ff328ebabde" width="400" />
-
 - «Кавычки» 2023 "Вселенная тестирования, или Как стать тестировщиком" - **Тестирование ПО**"
-
-
 <img src="https://github.com/myslivets0910/portfolio/assets/122479950/d8855325-7cef-46d2-8eb2-9aa0b9a940aa" width="400" />
-
 - QA Way 2023 "Тестирование ПО: Postman для тестирования API" - **Тестирование API**
-
-
 <img src="https://github.com/myslivets0910/portfolio/assets/122479950/5eb247f3-8c86-486c-ab0e-1859272506ce" width="400" />
-
 - ООО «Нетология» 2022  - **Git - система контроля версий**
-
-
 <img src="https://github.com/myslivets0910/portfolio/assets/122479950/cc71f2d1-e20d-453e-859d-2c266802840d" width="400" />
