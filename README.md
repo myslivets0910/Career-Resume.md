@@ -70,6 +70,7 @@ __QA Engineer / Тестировщик ПО__
 <img src="https://github.com/myslivets0910/portfolio/assets/122479950/5c296c26-b93e-4d41-9207-8ff328ebabde" width="400" />
 
 2. ООО «Нетология» 2022  - **Git - система контроля версий**
+
 <img src="https://github.com/myslivets0910/portfolio/assets/122479950/cc71f2d1-e20d-453e-859d-2c266802840d" width="400" />
 
 3. «Кавычки» 2023 "Вселенная тестирования, или Как стать тестировщиком" - **Тестирование ПО**"
