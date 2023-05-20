@@ -66,8 +66,6 @@ __QA Engineer / Тестировщик ПО__
 - Общая грамотность
 - Самоорганизация для удаленной работы.
 
-
-
 ## [Sales-experience](https://github.com/myslivets0910/Career-Resume.md/blob/main/Sales-experience.md)
 
 
