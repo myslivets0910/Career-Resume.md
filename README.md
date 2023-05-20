@@ -72,6 +72,11 @@ __QA Engineer / Тестировщик ПО__
 ## [Sales experience](https://github.com/myslivets0910/Career-Resume.md/blob/main/Sales-experience.md)
 ## [Marketing experience](https://github.com/myslivets0910/Career-Resume.md/blob/9fa3cb51c6304c8d1a501df7bc7e86e1d2140f43/Marketing-experience.md)
 
+## Образование:
+___Российская таможенная академия (филиал Санкт-Петербург)___
+- _Факультет: таможенное дело_
+- _Специалист таможенного дела_
+- _Год окончание 2015_
 
 ## Пройденные программы:
 
