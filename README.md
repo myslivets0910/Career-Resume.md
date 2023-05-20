@@ -66,7 +66,11 @@ __QA Engineer / Тестировщик ПО__
 - Общая грамотность
 - Самоорганизация для удаленной работы.
 
-## [Sales-experience](https://github.com/myslivets0910/Career-Resume.md/blob/main/Sales-experience.md)
+## [TEST-CASE](https://github.com/myslivets0910/Career-Resume.md/blob/5791bb4cb5e80712b65d2c7c5e75ba6cdd3a8c22/test-case.md)
+## [BUG-REPORTS](https://github.com/myslivets0910/Career-Resume.md/blob/fad11cbfb249efd2bb4cd7f2b44e1caa110a3bb7/bug-reports.md)
+## [КЛИЕНТЫ](https://github.com/myslivets0910/Career-Resume.md/blob/main/Marketing-experience.md#%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D1%8B-%D1%81-%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D1%8B%D0%BC%D0%B8-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%D0%BB)
+## [Sales experience](https://github.com/myslivets0910/Career-Resume.md/blob/main/Sales-experience.md)
+## [Marketing experience](https://github.com/myslivets0910/Career-Resume.md/blob/9fa3cb51c6304c8d1a501df7bc7e86e1d2140f43/Marketing-experience.md)
 
 
 ## Пройденные программы:
