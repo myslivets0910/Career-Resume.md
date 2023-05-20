@@ -67,6 +67,10 @@ __QA Engineer / Тестировщик ПО__
 - Самоорганизация для удаленной работы.
 
 
+
+## [Sales-experience](https://github.com/myslivets0910/Career-Resume.md/blob/main/Sales-experience.md)
+
+
 ## Пройденные программы:
 
 ### СКБ Контур 2023 "ULearn.me - **Тестирование ПО**
@@ -89,4 +93,3 @@ __QA Engineer / Тестировщик ПО__
 <img src="https://github.com/myslivets0910/portfolio/assets/122479950/cc71f2d1-e20d-453e-859d-2c266802840d" width="380" />
 -
 -
-[Sales-experience](https://github.com/myslivets0910/Career-Resume.md/blob/67b43b96258b665c1f1c6009ac1eb6c8e60b85f5/Sales-experience.md)
