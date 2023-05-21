@@ -56,6 +56,7 @@ __тест-кейсы [ПРИМЕРЫ](https://github.com/myslivets0910/Career-R
 ## MOBILE APP TESTING 
 **Тools:**
  - DevTools / Android Studio / Genymotion
+ - СharlesProxy / Fiddler
 
 ## Soft Skills:
 - Высокий уровень коммуникации
