@@ -67,9 +67,9 @@ __тест-кейсы [ПРИМЕРЫ](https://github.com/myslivets0910/Career-R
 - Общая грамотность
 - Самоорганизация для удаленной работы.
 
+## [ОПЫТ РАБОТЫ](https://github.com/myslivets0910/Career-Resume.md/blob/6ad14d6922c77f0e87d7d26d8b7a2ef58411e27c/work-experience.md)
 ## [TEST-CASE](https://github.com/myslivets0910/Career-Resume.md/blob/5791bb4cb5e80712b65d2c7c5e75ba6cdd3a8c22/test-case.md)
 ## [BUG-REPORTS](https://github.com/myslivets0910/Career-Resume.md/blob/fad11cbfb249efd2bb4cd7f2b44e1caa110a3bb7/bug-reports.md)
-## [ОПЫТ РАБОТЫ](https://github.com/myslivets0910/Career-Resume.md/blob/6ad14d6922c77f0e87d7d26d8b7a2ef58411e27c/work-experience.md)
 ## [Sales experience](https://github.com/myslivets0910/Career-Resume.md/blob/main/Sales-experience.md)
 ## [Marketing experience](https://github.com/myslivets0910/Career-Resume.md/blob/9fa3cb51c6304c8d1a501df7bc7e86e1d2140f43/Marketing-experience.md)
 
