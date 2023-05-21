@@ -31,7 +31,7 @@ __QA Engineer / Тестировщик ПО__
 - Понимание принципов клиент-серверной архитектуры;
 - Выявление и анализ ошибок и проблем, возникающих у пользователей при работе с программным продуктом;
 - Написания тестовой документации:
-__тест-кейсы ***[ПРИМЕРЫ](https://github.com/myslivets0910/Career-Resume.md/blob/5791bb4cb5e80712b65d2c7c5e75ba6cdd3a8c22/test-case.md)*** / чек-листы / баг-репорты ***[ПРИМЕРЫ](https://github.com/myslivets0910/Career-Resume.md/blob/fad11cbfb249efd2bb4cd7f2b44e1caa110a3bb7/bug-reports.md)*** / отчет о тестировании;__
+__тест-кейсы [ПРИМЕРЫ](https://github.com/myslivets0910/Career-Resume.md/blob/5791bb4cb5e80712b65d2c7c5e75ba6cdd3a8c22/test-case.md) / чек-листы / баг-репорты [ПРИМЕРЫ](https://github.com/myslivets0910/Career-Resume.md/blob/fad11cbfb249efd2bb4cd7f2b44e1caa110a3bb7/bug-reports.md) / отчет о тестировании;__
 - Документирование найденных дефектов и оформление баг-репортов;
 - **Чтение и документирование логов;**
 - **Знаком с методологиям Agile, Scrum**
