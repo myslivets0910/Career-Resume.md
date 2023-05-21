@@ -53,6 +53,10 @@ __тест-кейсы [ПРИМЕРЫ](https://github.com/myslivets0910/Career-R
 - СI / CD: ***Git и GitHub / Базовое понимание процессов и систем непрерывной интеграции: Jenkins, TeamCity***
 - Performance testing: ***JMeter***
 
+## MOBILE APP TESTING 
+**Тools:**
+ - DevTools / Android Studio / Genymotion
+
 ## Soft Skills:
 - Высокий уровень коммуникации
 - Умение задавать вопросы
