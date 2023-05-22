@@ -38,7 +38,8 @@ __тест-кейсы [ПРИМЕРЫ](https://github.com/myslivets0910/Career-R
 
 ## Владею следующими инструментами:
 - ***HTML/CSS*** 
-- ***SQL, XML, Json***  (Базовые знания)
+- ***XML, Json***  (Базовые знания)
+- SQL: DBeaver
 - DevTools в Google Chrome, Firefox, Opera
 - Логи: ***DevTools, Kibana***
 - Работа с командной строкой в ***Bash***
