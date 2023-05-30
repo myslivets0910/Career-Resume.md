@@ -9,7 +9,9 @@
 
 ### Оформление ГуглТаблицы 
 
-**[Посмотреть](https://docs.google.com/spreadsheets/d/1LixB8GonhXDPvAepuw7Z0WYNERuYwqeJGJGpscwF1rI/edit#gid=232317725)**
+**Посмотреть**
+- **[Henderson](https://docs.google.com/spreadsheets/d/1LixB8GonhXDPvAepuw7Z0WYNERuYwqeJGJGpscwF1rI/edit#gid=232317725)**
+- **[Facebank.store](https://docs.google.com/spreadsheets/d/1ccKEEhLFP3TMo7tkDqYlBn0-X2WjF5YAakmWp11WdT4/edit#gid=0)**
 
 <img src="https://github.com/myslivets0910/Career-Resume.md/assets/122479950/5e8a7ace-a147-4292-a16d-8fddb1fff7cd" width="1200" height="500" />
 
