@@ -107,5 +107,11 @@ ___Российская таможенная академия (филиал Са
 ### ООО «Нетология» 2022  - **Git - система контроля версий**
 -
 <img src="https://github.com/myslivets0910/portfolio/assets/122479950/cc71f2d1-e20d-453e-859d-2c266802840d" width="380" />
+
+### ООО «WL Company» 2023  - **"WEB-разработчик: Основы"**
+-
+<img src="https://github.com/myslivets0910/Career-Resume.md/assets/122479950/b1f526d9-527f-4edb-9f4f-346de5df18d4" width="380" />
+
 -
 -
+
