@@ -39,13 +39,13 @@ __тест-кейсы [ПРИМЕРЫ](https://github.com/myslivets0910/Career-R
 ## Владею следующими инструментами:
 - ***HTML/CSS*** 
 - ***XML, Json***  (Базовые знания)
-- SQL: ***DBeaver***
+- SQL: ***DBeaver***, ***PhpMyAdmin***
 - DevTools в Google Chrome, Firefox, Opera
 - Логи: ***DevTools, Kibana***
 - Работа с командной строкой в ***Bash***
-- Bug Tracking Tools: ***Google Таблицы / Trello / YouTrack / Jira***
-- Работа с изображениями и видео: ***Monosnap / ЯндексСкриншот / GoFullPage / Bandicam***
-- Работа с файлами: ***Xmind / Сoggle.it / Beyond Compare 4***
+- Bug Tracking Tools: ***Google Таблицы / Trello / Jira***
+- Работа с изображениями и видео: ***Lightshot / Bandicam***
+- Работа с файлами: ***Сonfluence / Xmind / Beyond Compare 4***
 - Работа с кодом: ***Notepad++ / Visual Studio Code / Сodepen.io / Maven / IntelliJ IDEA***
 - REST API: ***Postman / Swagger.io***
 - SOAP: ***SoapUI***
@@ -53,6 +53,9 @@ __тест-кейсы [ПРИМЕРЫ](https://github.com/myslivets0910/Career-R
 - UI/UX-тестирование: ***iloveadaptive / Zeplin / PerfectPixel / Google Lighthouse / CSSViewer***
 - СI / CD: ***Git и GitHub / Базовое понимание процессов и систем непрерывной интеграции: Jenkins, TeamCity***
 - Performance testing: ***JMeter***
+- Аналитика: ***Amplitude / ЯндексМетрика***
+- ***Sentry***,
+- ***работа в 4-ой линии техподдержки***
 
 ## MOBILE APP TESTING 
 **Тools:**
