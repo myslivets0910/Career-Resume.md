@@ -44,14 +44,15 @@ __тест-кейсы [ПРИМЕРЫ](https://github.com/myslivets0910/Career-R
 - Логи: ***DevTools, Kibana***
 - Работа с командной строкой в ***Bash***
 - Bug Tracking Tools: ***Google Таблицы / Trello / Jira***
+- Написание и поддерживание кейсов в ***Google Таблицы / Qase.io***
 - Работа с изображениями и видео: ***Lightshot / Bandicam***
 - Работа с файлами: ***Сonfluence / Xmind / Beyond Compare 4***
 - Работа с кодом: ***Notepad++ / Visual Studio Code / Сodepen.io / Maven / IntelliJ IDEA***
 - REST API: ***Postman / Swagger.io***
 - SOAP: ***SoapUI***
-- Cross Browser Testing: ***BrowserStack / DevTools***
-- UI/UX-тестирование: ***iloveadaptive / Zeplin / PerfectPixel / Google Lighthouse / CSSViewer***
-- СI / CD: ***Git и GitHub / Базовое понимание процессов и систем непрерывной интеграции: Jenkins, TeamCity***
+- Cross Browser Testing: ***Mobile FIRST / DevTools***
+- UI/UX-тестирование: ***PerfectPixel / Google Lighthouse / CSSViewer***
+- СI / CD: ***Git и GitHub / Jenkins***
 - Performance testing: ***JMeter***
 - Аналитика: ***Amplitude / ЯндексМетрика***
 - ***Sentry***,
@@ -59,7 +60,7 @@ __тест-кейсы [ПРИМЕРЫ](https://github.com/myslivets0910/Career-R
 
 ## MOBILE APP TESTING 
 **Тools:**
- - DevTools / Android Studio / Genymotion
+ - DevTools / Mobile FIRST
  - СharlesProxy / Fiddler
 
 ## Soft Skills:
