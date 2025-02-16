@@ -20,7 +20,6 @@ __QA Engineer / Тестировщик ПО__
 2. Английский  - на уровне чтения документации
 
 ## Профессиональные навыки:
-- Уверенный пользователь ПК;
 - Понимание принципов тестирования программного
 обеспечения и умение применять различные методы тестирования.
 - Понимание и умение применять виды и типы тестирования.
@@ -28,7 +27,9 @@ __QA Engineer / Тестировщик ПО__
 - Опыт функционального и нефункционального тестирования;
 - Опыт Frontend и Backend тестирование;
 - Понимание жизненного цикла разработки ПО;
-- Понимание принципов клиент-серверной архитектуры;
+- Подготовка графика релизов;
+- Онбординг по продукту для новых сотрудников
+- Обучение сотрудников отдела тестирования
 - Выявление и анализ ошибок и проблем, возникающих у пользователей при работе с программным продуктом;
 - Написания тестовой документации:
 __тест-кейсы [ПРИМЕРЫ](https://github.com/myslivets0910/Career-Resume.md/blob/5791bb4cb5e80712b65d2c7c5e75ba6cdd3a8c22/test-case.md) / чек-листы / баг-репорты [ПРИМЕРЫ](https://github.com/myslivets0910/Career-Resume.md/blob/fad11cbfb249efd2bb4cd7f2b44e1caa110a3bb7/bug-reports.md) / отчет о тестировании;__
@@ -43,11 +44,11 @@ __тест-кейсы [ПРИМЕРЫ](https://github.com/myslivets0910/Career-R
 - DevTools в Google Chrome, Firefox, Opera
 - Логи: ***DevTools, Kibana***
 - Работа с командной строкой в ***Bash***
-- Bug Tracking Tools: ***Google Таблицы / Trello / Jira***
+- Bug Tracking Tools: ***Google Таблицы / Trello / Jira / QASE***
 - Написание и поддерживание кейсов в ***Google Таблицы / Qase.io***
 - Работа с изображениями и видео: ***Lightshot / Bandicam***
-- Работа с файлами: ***Сonfluence / Xmind / Beyond Compare 4***
-- Работа с кодом: ***Notepad++ / Visual Studio Code / Сodepen.io / Maven / IntelliJ IDEA***
+- Работа с файлами: ***Сonfluence / Xmind / Miro***
+- Работа с кодом: ***Notepad++ / Visual Studio Code***
 - REST API: ***Postman / Swagger.io***
 - SOAP: ***SoapUI***
 - Cross Browser Testing: ***Mobile FIRST / DevTools***
@@ -61,7 +62,7 @@ __тест-кейсы [ПРИМЕРЫ](https://github.com/myslivets0910/Career-R
 ## MOBILE APP TESTING 
 **Тools:**
  - DevTools / Mobile FIRST
- - СharlesProxy / Fiddler
+ - Fiddler
 
 ## Soft Skills:
 - Высокий уровень коммуникации
