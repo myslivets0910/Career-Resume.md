@@ -38,8 +38,7 @@ __тест-кейсы [ПРИМЕРЫ](https://github.com/myslivets0910/Career-R
 - **Знаком с методологиям Agile, Scrum**
 
 ## СТЕК:
-- ***HTML/CSS*** 
-- ***XML, Json***  (Базовые знания)
+- Автоматизация тестирования: **bugbug.io**
 - SQL: ***DBeaver***, ***PhpMyAdmin***
 - DevTools в Google Chrome, Firefox, Opera
 - Логи: ***DevTools, Kibana***
@@ -118,7 +117,8 @@ ___Российская таможенная академия (филиал Са
 <img src="https://github.com/myslivets0910/Career-Resume.md/assets/122479950/b1f526d9-527f-4edb-9f4f-346de5df18d4" width="380" />
 
 -
-### **Тестирование REST API в Postman**
-<img src="https://github.com/user-attachments/files/18813952/stepik-certificate-131052-ce59be1.pdf" width="380" />
+### 2024 **Тестирование REST API в Postman**
+<img src="https://github.com/user-attachments/assets/8d4e9dfd-8563-4a1b-8db2-d90bdcb1099d" width="380" />
+
 
 
