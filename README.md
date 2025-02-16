@@ -118,5 +118,7 @@ ___Российская таможенная академия (филиал Са
 <img src="https://github.com/myslivets0910/Career-Resume.md/assets/122479950/b1f526d9-527f-4edb-9f4f-346de5df18d4" width="380" />
 
 -
-### Тестирование REST API в Postman**
-file:///C:/Users/kabac/Desktop/%D0%9B%D0%B8%D1%87%D0%BD%D1%8B%D0%B5%20%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/stepik-certificate-131052-ce59be1.pdf
+### **Тестирование REST API в Postman**
+<img src="https://github.com/user-attachments/files/18813952/stepik-certificate-131052-ce59be1.pdf" width="380" />
+
+
