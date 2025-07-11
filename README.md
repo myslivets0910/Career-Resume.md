@@ -122,7 +122,8 @@ ___Российская таможенная академия (филиал Са
 ### 2024 **Тестирование REST API в Postman**
 <img src="https://github.com/user-attachments/assets/8d4e9dfd-8563-4a1b-8db2-d90bdcb1099d" width="380" />
 
-### 2025 ** **
+### 2025 **Автоматизация тестирования с помощью Selenium и Python**
+<img src="https://github.com/user-attachments/files/21179208/stepik-certificate-575-7ffb23c.1.pdf" width="380" />
 
 
 
