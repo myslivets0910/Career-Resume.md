@@ -35,11 +35,11 @@ __QA Engineer / Тестировщик ПО__
 __тест-кейсы [ПРИМЕРЫ](https://github.com/myslivets0910/Career-Resume.md/blob/5791bb4cb5e80712b65d2c7c5e75ba6cdd3a8c22/test-case.md) / чек-листы / баг-репорты [ПРИМЕРЫ](https://github.com/myslivets0910/Career-Resume.md/blob/fad11cbfb249efd2bb4cd7f2b44e1caa110a3bb7/bug-reports.md) / отчет о тестировании;__
 - Документирование найденных дефектов и оформление баг-репортов;
 - **Чтение и документирование логов;**
-- **Написание автотестов на Pytest + Allure** [Pet-проект: https://github.com/myslivets0910/auto_ART.git]
+- **Написание автотестов на Pytest + Allure** [Pet-проект Pytest + Allure](https://github.com/myslivets0910/auto_ART.git)
 - **Знаком с методологиям Agile, Scrum**
 
 ## СТЕК:
-- Автоматизация тестирования: **bugbug.io**
+- Автоматизация тестирования: **bugbug.io / PyTest**
 - SQL: ***DBeaver***, ***PhpMyAdmin***
 - DevTools в Google Chrome, Firefox, Opera
 - Логи: ***DevTools, Kibana***
@@ -55,14 +55,13 @@ __тест-кейсы [ПРИМЕРЫ](https://github.com/myslivets0910/Career-R
 - UI/UX-тестирование: ***PerfectPixel / Google Lighthouse / CSSViewer***
 - СI / CD: ***Git и GitHub / Jenkins***
 - Performance testing: ***JMeter***
-- Аналитика: ***Amplitude / ЯндексМетрика***
+- Аналитика: ***Allure / Amplitude / ЯндексМетрика***
 - ***Sentry***,
 - ***работа в 4-ой линии техподдержки***
 
 ## MOBILE APP TESTING 
 **Тools:**
  - DevTools / Mobile FIRST / SHAREit
- - Fiddler
 
 ## Soft Skills:
 - Высокий уровень коммуникации
@@ -83,6 +82,8 @@ __тест-кейсы [ПРИМЕРЫ](https://github.com/myslivets0910/Career-R
 ## [BUG-REPORTS](https://github.com/myslivets0910/Career-Resume.md/blob/fad11cbfb249efd2bb4cd7f2b44e1caa110a3bb7/bug-reports.md)
 ## [Sales experience](https://github.com/myslivets0910/Career-Resume.md/blob/main/Sales-experience.md)
 ## [Marketing experience](https://github.com/myslivets0910/Career-Resume.md/blob/9fa3cb51c6304c8d1a501df7bc7e86e1d2140f43/Marketing-experience.md)
+## [Pet-проект Pytest + Allure](https://github.com/myslivets0910/auto_ART.git)
+
 
 ## Образование:
 ___Российская таможенная академия (филиал Санкт-Петербург)___
@@ -120,6 +121,8 @@ ___Российская таможенная академия (филиал Са
 -
 ### 2024 **Тестирование REST API в Postman**
 <img src="https://github.com/user-attachments/assets/8d4e9dfd-8563-4a1b-8db2-d90bdcb1099d" width="380" />
+
+### 2025 ** **
 
 
 
