@@ -1,10 +1,10 @@
-# Резюме на вакансию  Automation QA Engineer I Python
+# Резюме на вакансию  Fullstack QA Engineer / AQA Engineer Python
 <img src="https://user-images.githubusercontent.com/122479950/221151694-71c9199b-257b-4a7e-9efd-3acea36638c7.JPG" width="200" />
 
 **Павел Михайлович Мысливец**
 
 ## Специализации:
-__QA Engineer / Тестировщик ПО__
+__Fullstack QA Engineer / AQA Engineer Python__
 - _Опыт работы: 4 года 
 *** 
 ### Контакты для связи:
